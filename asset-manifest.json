@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/nxtwave-password-manager/static/css/main.b8166ece.css",
-    "main.js": "/github.io/nxtwave-password-manager/static/js/main.d320c888.js",
-    "static/js/453.71c50ed2.chunk.js": "/github.io/nxtwave-password-manager/static/js/453.71c50ed2.chunk.js",
-    "index.html": "/github.io/nxtwave-password-manager/index.html",
-    "main.b8166ece.css.map": "/github.io/nxtwave-password-manager/static/css/main.b8166ece.css.map",
-    "main.d320c888.js.map": "/github.io/nxtwave-password-manager/static/js/main.d320c888.js.map",
-    "453.71c50ed2.chunk.js.map": "/github.io/nxtwave-password-manager/static/js/453.71c50ed2.chunk.js.map"
+    "main.css": "/nxtwave-password-manager/static/css/main.b8166ece.css",
+    "main.js": "/nxtwave-password-manager/static/js/main.72366d36.js",
+    "static/js/453.71c50ed2.chunk.js": "/nxtwave-password-manager/static/js/453.71c50ed2.chunk.js",
+    "index.html": "/nxtwave-password-manager/index.html",
+    "main.b8166ece.css.map": "/nxtwave-password-manager/static/css/main.b8166ece.css.map",
+    "main.72366d36.js.map": "/nxtwave-password-manager/static/js/main.72366d36.js.map",
+    "453.71c50ed2.chunk.js.map": "/nxtwave-password-manager/static/js/453.71c50ed2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8166ece.css",
-    "static/js/main.d320c888.js"
+    "static/js/main.72366d36.js"
   ]
 }
