@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    padding:18px;
+    border: 1px solid #efefef;
+    border-radius: 4px;
+    align-items: center;
+    color: #fff;
+    width: 25%;
+   gap:10px;
+}
+
+.passwordLogo{
+    padding: 20px;
+    border-radius: 50%;
+    background-color: #f66ff6;
+    margin-right: 10px;
+}
+
+.listContainer{
+
+    display:flex;
+    flex-wrap: wrap;
+    gap:20px;
+
+}

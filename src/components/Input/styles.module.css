@@ -1,0 +1,26 @@
+.container{
+    background-color: #f8fafc;
+    display: flex;
+    align-items: center;
+    border-radius: 2px;
+    justify-content: center;
+    gap:4px;
+    width: 100%;
+}
+
+.logo{
+    padding: 12px;
+    display: flex;
+    align-items: center;
+    border-right: 1px solid #e5e5e5;
+}
+
+.input{
+    display: flex;
+    width: 100%;
+    border: none;
+    font-size: 20px;
+    padding: 10px;
+    background-color: #f8fafc;
+    outline: none;
+}
